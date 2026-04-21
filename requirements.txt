@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain-community
+langchain-core
+langchain-chroma
+openai
+chromadb
+pymupdf
+pandas
+ipython
